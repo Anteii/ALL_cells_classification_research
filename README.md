@@ -1,1 +1,1 @@
-# ALL_cells_classification_research
+This repository contains my research on image analysis, in paticular, ALL (Acute lymphoblastic leukemia).
